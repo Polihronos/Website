@@ -141,7 +141,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    cursor: url('images/icons8-art-therapist-24.png'), auto;
+    cursor: url('icons8-art-therapist-24.png'), auto;
 }
 
 .navbar {
@@ -325,19 +325,19 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('./images/winter1.jpg');
+    background-image: url('winter1.jpg');
 }
 
 .card[for="c2"] {
-    background-image: url('./images/cat3.jpg');
+    background-image: url('cat3.jpg');
 }
 
 .card[for="c3"] {
-    background-image: url('./images/cock1.jpg');
+    background-image: url('cock1.jpg');
 }
 
 .card[for="c4"] {
-    background-image: url('./images/daniela.jpg');
+    background-image: url('daniela.jpg');
 }
 
 .footer {
